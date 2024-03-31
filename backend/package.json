@@ -1,7 +1,7 @@
 {
-  "name": "3d-print-store",
+  "name": "3d-print-store-backend",
   "version": "1.0.0",
-  "description": "Initialized project 3/30/24",
+  "description": "backend for 3D Print Store",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

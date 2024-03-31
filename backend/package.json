@@ -1,0 +1,11 @@
+{
+  "name": "3d-print-store",
+  "version": "1.0.0",
+  "description": "Initialized project 3/30/24",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
